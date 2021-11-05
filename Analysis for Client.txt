@@ -1,0 +1,2 @@
+My T-SNE scatterplot shows 3, maybe 4, pretty significant clusters and my kmeans elbow plot confirms that analysis of 4 clusters found.  
+I would tell my clients that cryptocurrencies can be accurately clustered into 3 groups.
